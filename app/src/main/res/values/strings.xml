@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="e_g_5">e.g 5</string>
+    <string name="middle_button_text">Button1</string>
+    <string name="right_buton">right_buton</string>
+    <string name="left_button">left_button</string>
+</resources>
